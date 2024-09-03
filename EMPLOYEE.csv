@@ -1,0 +1,40 @@
+Employee_ID,Employee_FirstName,Employee_LastName,Employee_Role,Reports_to,Resolution_Time,Customer_Satisfaction
+101,Sarah,Johnson,Manager,,480000,5
+102,Michael,Smith,Accountant,101,470000,2
+103,Laura,Martinez,Customer Service,101,460000,3
+104,William,Davis,Security,101,450000,4
+105,Jennifer,Lee,Meter Reader,101,440000,5
+106,David,Brown,Field Technician,101,430000,5
+107,Amanda,Nguyen,Data Analyst,101,420000,2
+108,Richard,Kim,IT Specialist,101,410000,4
+109,Samantha,Miller,Sales Representative,101,400000,3
+110,Joseph,Rodriguez,Billing Specialist,101,390000,5
+111,Ashley,Perez,Collections Specialist,101,380000,2
+112,Christopher,Thompson,Compliance Officer,101,370000,5
+113,Stephanie,Hernandez,Accountant,101,360000,2
+114,Matthew,Taylor,Customer Service,101,350000,5
+115,Brittany,Garcia,Security,101,340000,2
+116,Daniel,Wilson,Meter Reader,101,330000,1
+117,Emily,Jackson,Field Technician,101,320000,3
+118,Kevin,Moore,Data Analyst,101,310000,4
+119,Elizabeth,Davis,IT Specialist,101,300000,5
+120,Joshua,Johnson,Sales Representative,101,290000,2
+121,Victoria,Adams,Billing Specialist,101,280000,2
+122,Nicholas,Anderson,Collections Specialist,101,270000,3
+123,Rachel,Martinez,Compliance Officer,101,260000,4
+124,Brandon,Scott,Accountant,101,250000,5
+125,Katherine,Lee,Customer Service,101,240000,1
+126,Christopher,Baker,Security,101,230000,2
+127,Jasmine,Nguyen,Meter Reader,101,220000,3
+128,Robert,Clark,Field Technician,101,210000,4
+129,Lauren,Kim,Data Analyst,101,200000,5
+130,Alexander,White,IT Specialist,101,190000,5
+131,Madison,Rodriguez,Sales Representative,101,180000,2
+132,James,Martinez,Billing Specialist,101,170000,1
+133,Heather,Young,Collections Specialist,101,160000,4
+134,Justin,Lee,Compliance Officer,101,150000,3
+135,Christina,Rodriguez,Accountant,101,140000,5
+136,Tyler,Davis,Customer Service,101,130000,4
+137,Melissa,Adams,Security,101,120000,2
+138,Benjamin,Brown,Meter Reader,101,110000,1
+139,Vanessa,Hernandez,Field Technician,101,100000,5
